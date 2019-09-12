@@ -7,8 +7,7 @@
 '''''''''''''''''''''''''''''''''''''''''''''''''''''
 '	RIP Ripper Make Hook
 '	-- This file created your customized hook.
-'	Release 1.0.3
-'	on 06 Apr 2015
+'
 '''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 set ofso = createobject("scripting.filesystemobject")

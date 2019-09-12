@@ -8,8 +8,7 @@
 '	RIP Ripper Core
 '	-- This file is the meat and potatoes of the ripper.
 '	-- Do NOT modify the contents of this script. Please use the configuration files instead.
-'	Release 2.1.2
-'	on 06 Feb 2018
+'
 '''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 '''''''''''''''''''''''''''''''''''''''''''''''''''''
