@@ -22,13 +22,13 @@ I keep busy, but I've yet to turn away someone asking for help. If you're having
 
 ### How to Deploy
 
-The "Hook Method" is the most common usage of the ripper. The steps below will lead you to creating a "hook" file. You can then move that file to anywhere that you have EOM (.BKP) files stored and execute it to process all the EOM files sharing the same folder as the hook file itself. I call it the "hook" method and the "hook" file because it literally is a small script that reaches back to the original location of the main script, executes the main script, and then points it back to where the small script originated.
+The "Hook Method" is the most common usage of the ripper. The steps below will lead you to creating a "hook" file. You can then move that file to anywhere that you have EOM (.BKP) files stored and execute it to process all the EOM files sharing the same folder as the hook file itself. I call it the "hook" method and the "hook" file because it literally is a small script that reaches back to the original location of the main script, hooks into the main script, and then points it back to where the small script started.
 
 Requirements:
 
  - Windows 7 or above
  - Microsoft Word 2010 or above
- - Enterprice Output Manager (EOM) configured to output backup (.BKP) files.
+ - Enterprise Output Manager (EOM) configured to output backup (.BKP) files.
 
 Setup Steps (Hook Method): 
 
