@@ -32,7 +32,7 @@ Requirements:
 
 Setup Steps (Hook Method): 
 
- 1. Download all the files in this repository
+ 1. Download [all the files](https://gitlab.com/usaf-psm/rip-ripper/-/archive/master/rip-ripper-master.zip) in this repository
  2. Place these files in a location that is accessible by everyone who intends to use the ripper, but preferably not where you keep your EOM files
  3. Execute the "RIP Ripper Make Hook.vbs" script.
  4. Move the newly created "RIP Ripper Hook.bat" to anywhere you may have .BKP files that you want to be processed by the ripper.
