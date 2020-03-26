@@ -3,7 +3,7 @@
 '   Sibastian Bythewood during his time in
 '   82 FSS at Sheppard AFB.
 '
-'   Email: sibastian.bythewood.1@us.af.mil
+'   Email: sibastian.bythewood.2@us.af.mil
 '''''''''''''''''''''''''''''''''''''''''''''''''''''
 '	RIP Ripper Core
 '	-- This file is the meat and potatoes of the ripper.
